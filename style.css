@@ -28,7 +28,13 @@ h2{
     margin-top: 60px;
     font-size: 28px;  
 }
-
+h3{
+    font-size: 23px;
+    margin-bottom: 10px;
+}
+.ghost{
+    display: none;
+}
 .form-group {
     display: flex;
     flex-direction: column;
@@ -92,7 +98,7 @@ input::-webkit-inner-spin-button {
 }
 
 @media (max-width: 655px){
-    .container{       
+    .container{  
         display: grid;
         grid-template-columns: 100%;
         grid-template-rows: 700px;
@@ -100,13 +106,21 @@ input::-webkit-inner-spin-button {
         "description"
         "form"
         "result";
-        margin-left: 18%;
+        margin-left: 13%;
+        height: 1500px;
     }
+    
     .text2 { display: inline-block; }
     .text1 { display: none; }
     .form-group input, .form-group select{
         border: 2px solid #170a59 ;
+        padding-left: 5px;
+        
     }
+    .ghost{
+        display: grid;
+    }
+    
 
 }
 @media (min-width: 656px){
