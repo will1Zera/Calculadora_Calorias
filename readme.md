@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 ### Descrição
-Ckal é um site que demonstra quantas calorias possui em seu memtabolismo através de um cálculo com base nas suas informações. Útil para quem quer ter uma base do seu metabolismo, fornece informações para manter, perder e ganhar peso
+Ckal é um site que demonstra quantas calorias possui em seu metabolismo através de um cálculo com base nas suas informações. Útil para quem quer ter uma base do seu metabolismo, fornece informações para manter, perder e ganhar peso
 
 
 ### Objetivo
